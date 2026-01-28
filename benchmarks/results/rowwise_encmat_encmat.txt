@@ -1,0 +1,6 @@
+Operation                       TotalTime(ms)     Calls    AvgTime(us)
+Masking Mult                           16.152        16       1009.485
+Result Add                              0.702        12         58.489
+Encode Mask                            64.524        16       4032.770
+Rotate+Add (Sum)                      104.242        32       3257.551
+Homomorphic Mult                      104.159        16       6509.911

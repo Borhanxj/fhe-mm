@@ -1,0 +1,10 @@
+Operation                       TotalTime(ms)     Calls    AvgTime(us)
+Rescale (mask)                       2385.767      4096        582.463
+Add masked (row)                      121.199      4096         29.590
+Mask (row)                            683.570      4096        166.887
+ModSwitch (mask)                       78.705      4096         19.215
+Add (row)                            2799.187     49152         56.950
+Rotate (row)                       106436.663     49152       2165.459
+Rescale (row)                        3775.092      4096        921.653
+Multiply (row)                       1261.490      4096        307.981
+Encoding (matrix row)               19372.946      4096       4729.723

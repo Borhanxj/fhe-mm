@@ -1,0 +1,43 @@
+# ───────────── Prerequisites ─────────────
+*.d
+
+# ───────────── Build artifacts ─────────────
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# ───────────── Compiled object files ─────────────
+*.slo
+*.lo
+*.o
+*.obj
+
+# ───────────── Precompiled headers ─────────────
+*.gch
+*.pch
+
+# ───────────── Linker files ─────────────
+*.ilk
+
+# ───────────── Debugger files ─────────────
+*.pdb
+*.dwo
+
+# ───────────── Compiled libraries ─────────────
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+*.lai
+*.la
+
+# ───────────── Executables ─────────────
+*.exe
+*.out
+*.app
+
+# ───────────── Ignore root-level CMakeLists.txt if desired ─────────────
+CMakeLists.txt

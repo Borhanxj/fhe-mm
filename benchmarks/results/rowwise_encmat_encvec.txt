@@ -1,0 +1,6 @@
+Operation                       TotalTime(ms)     Calls    AvgTime(us)
+Add to result                           2.550        64         39.844
+ModSwitch + Multiply Plain + Rescale         48.646        64        760.101
+Encode mask                           198.104        64       3095.367
+Rotate + Add (row accumulation)        880.963       384       2294.176
+Mult + Relin + Rescale                293.893        64       4592.080

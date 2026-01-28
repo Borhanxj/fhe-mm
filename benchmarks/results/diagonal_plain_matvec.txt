@@ -1,0 +1,5 @@
+Operation                       TotalTime(ms)     Calls    AvgTime(us)
+Rotate Vector                         116.168        15       7744.545
+Result Add                              1.149        15         76.597
+Multiply Plain                         21.299        16       1331.167
+Encode Diagonal                        63.164        16       3947.722

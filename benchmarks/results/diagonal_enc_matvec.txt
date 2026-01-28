@@ -1,0 +1,4 @@
+Operation                       TotalTime(ms)     Calls    AvgTime(us)
+Result Add                              1.301        15         86.753
+Rotate Vector                         131.832        15       8788.822
+Homomorphic Mult                      102.578        16       6411.148

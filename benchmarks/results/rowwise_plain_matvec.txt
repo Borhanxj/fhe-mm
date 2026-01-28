@@ -1,0 +1,7 @@
+Operation                       TotalTime(ms)     Calls    AvgTime(us)
+Masking Mult                           14.561        16        910.070
+Rotate+Add (Sum)                      181.133        64       2830.204
+Result Add                              0.661        15         44.045
+Encode Mask                            62.037        16       3877.340
+Multiply Plain                         21.904        16       1368.975
+Encode Plain Row                       58.812        16       3675.773

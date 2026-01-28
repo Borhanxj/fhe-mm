@@ -1,0 +1,7 @@
+Operation                       TotalTime(ms)     Calls    AvgTime(us)
+Add diagonal                          232.499      4095         56.776
+Rotate (diagonal)                   60694.938      4095      14821.719
+Initialize result                       0.139         1        139.208
+Rescale (diagonal)                   3835.572      4096        936.419
+Multiply (diagonal)                  1187.795      4096        289.989
+Encoding (diagonal)                 19490.692      4096       4758.470
